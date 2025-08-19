@@ -1,8 +1,6 @@
 # Spring Boot REST API Project
 
 A simple Spring Boot REST API project that demonstrates the fundamentals of building RESTful web services with Spring Boot.
-This repository ([simple-springboot-rest-api-project](https://github.com/Sangramjit786/simple-springboot-rest-api-project.git)) contains a **Spring Boot REST API microservice** designed to demonstrate the **fundamentals of REST APIs**.  
-It provides a simple yet practical example of how to design, implement, and test REST endpoints with a **MySQL database integration**.  
 
 ## 📋 Project Overview
 
