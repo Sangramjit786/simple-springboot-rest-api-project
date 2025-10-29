@@ -109,8 +109,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Spring Boot Team
 - Java Guides
 
----
-
-<p align="center">
-  Made with ❤️ by Your Name
-</p>
